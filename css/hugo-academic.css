@@ -34,7 +34,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   line-height: inherit;
   color: inherit;
   margin-top: 71px; /* Offset body content by navbar height. */
@@ -77,16 +77,16 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 1.5rem;
+  font-size: 2.25rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 h3 {
   font-weight: 100;
   margin-top: 1.5rem;
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 h4, h5, h6 {
   font-weight: 100;
@@ -240,7 +240,7 @@ blockquote p:last-child {
 .section-heading p {
   font-family: 'Lato', sans-serif;
   font-weight: 100;
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: #b2b2b2;
 }
 
@@ -266,14 +266,14 @@ blockquote p:last-child {
 }
 
 #profile .portrait-title h2 {
-  font-size: 1em;
+  font-size: 1.75em;
   font-weight: 100;
   color: #000000;
   margin: 20px 0 10px 0;
 }
 
 #profile .portrait-title h3 {
-  font-size: 1em;
+  font-size: 1.13em;
   font-weight: 100;
   color: #AAAAAA;
   margin: 0px 0 10px 0;
@@ -301,11 +301,11 @@ blockquote p:last-child {
 }
 
 .big-icon {
-  font-size: 1.25rem;
+  font-size: 2rem;
 }
 
 ul.ul-interests li {
-  font-size: 0.5rem;
+  font-size: 0.9rem;
 }
 
 ul.ul-edu {
@@ -322,11 +322,11 @@ ul.ul-edu li .description p {
 }
 
 ul.ul-edu li .description p.course {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: 0.5rem;
+  font-size: 0.75rem;
   color: rgba(0,0,0,0.6);
 }
 
@@ -430,7 +430,7 @@ article {
 }
 
 .article-title {
-  font-size: 1rem;
+  font-size: 1.75rem;
 }
 
 .article-title a {
@@ -503,7 +503,7 @@ article {
 
 .pub-icon {
   color: #03396c;
-  font-size: 0.7em;
+  font-size: 0.81em;
   padding-top: 6px;
 }
 
@@ -582,12 +582,12 @@ article {
 }
 
 #projects.home-section .project-summary {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   margin-bottom: 0.4rem;
 }
 
 #projects.home-section .project-tags {
-  font-size: 0.5rem;
+  font-size: 0.75rem;
   color: #9c9c9c;
 }
 
@@ -634,7 +634,7 @@ article {
 }
 
 .card h4 {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   font-weight: 100;
   line-height: 1.5;
   text-transform: uppercase;
@@ -657,7 +657,7 @@ article {
 
 .card .card-text p {
   color: #999999;
-  font-size: 0.5rem;
+  font-size: 0.75rem;
 }
 
 .card p:last-child {
@@ -689,7 +689,7 @@ article {
   font-family: 'FontAwesome';
   content: '\f0c1';
   text-align: center;
-  font-size: 2rem;
+  font-size: 3rem;
   color: #666;
 }
 
@@ -741,7 +741,7 @@ footer {
 }
 
 footer p {
-  font-size: 0.5rem;
+  font-size: 0.75rem;
   text-align: center;
 }
 
@@ -772,7 +772,7 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-toolbar .btn {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   padding: 10px 14px 9px;
   border: none;
 }
@@ -899,7 +899,7 @@ nav#navbar-main li {
 .navbar-default .navbar-brand {
   text-transform: uppercase;
   
-  font-size: 0.9em;
+  font-size: 1.2em;
   color: #2b2b2b;
 }
 
