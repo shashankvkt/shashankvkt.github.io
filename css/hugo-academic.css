@@ -34,7 +34,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   line-height: inherit;
   color: inherit;
   margin-top: 71px; /* Offset body content by navbar height. */
@@ -62,7 +62,7 @@ ul, ol, dl {
 /* Navigation bar text */
 .navbar-default {
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
+  font-weight: 100;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
@@ -70,26 +70,26 @@ ul, ol, dl {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
+  font-weight: 100;
   margin-bottom: .5rem;
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 1.5rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 h3 {
-  font-weight: 400;
+  font-weight: 100;
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 h4, h5, h6 {
-  font-weight: 400;
+  font-weight: 100;
   margin-top: 1rem;
   font-size: 1rem;
 }
@@ -119,7 +119,7 @@ video {
 }
 
 figcaption:before {
-  font-weight: 400;
+  font-weight: 100;
   text-transform: uppercase;
   content: "Figure " counter(captions) ": ";
 }
@@ -137,7 +137,7 @@ figcaption {
 figcaption h4 {
   display: inline-block;
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 100;
   margin: 0;
 }
 
@@ -240,7 +240,7 @@ blockquote p:last-child {
 .section-heading p {
   font-family: 'Lato', sans-serif;
   font-weight: 100;
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: #b2b2b2;
 }
 
@@ -266,15 +266,15 @@ blockquote p:last-child {
 }
 
 #profile .portrait-title h2 {
-  font-size: 1.75em;
-  font-weight: 300;
+  font-size: 1em;
+  font-weight: 100;
   color: #000000;
   margin: 20px 0 10px 0;
 }
 
 #profile .portrait-title h3 {
-  font-size: 1.13em;
-  font-weight: 300;
+  font-size: 1em;
+  font-weight: 100;
   color: #AAAAAA;
   margin: 0px 0 10px 0;
 }
@@ -301,11 +301,11 @@ blockquote p:last-child {
 }
 
 .big-icon {
-  font-size: 2rem;
+  font-size: 1.25rem;
 }
 
 ul.ul-interests li {
-  font-size: 0.9rem;
+  font-size: 0.5rem;
 }
 
 ul.ul-edu {
@@ -322,11 +322,11 @@ ul.ul-edu li .description p {
 }
 
 ul.ul-edu li .description p.course {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   color: rgba(0,0,0,0.6);
 }
 
@@ -430,7 +430,7 @@ article {
 }
 
 .article-title {
-  font-size: 1.75rem;
+  font-size: 1rem;
 }
 
 .article-title a {
@@ -503,7 +503,7 @@ article {
 
 .pub-icon {
   color: #03396c;
-  font-size: 0.81em;
+  font-size: 0.7em;
   padding-top: 6px;
 }
 
@@ -582,12 +582,12 @@ article {
 }
 
 #projects.home-section .project-summary {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   margin-bottom: 0.4rem;
 }
 
 #projects.home-section .project-tags {
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   color: #9c9c9c;
 }
 
@@ -634,8 +634,8 @@ article {
 }
 
 .card h4 {
-  font-size: 0.9rem;
-  font-weight: 400;
+  font-size: 0.7rem;
+  font-weight: 100;
   line-height: 1.5;
   text-transform: uppercase;
 }
@@ -657,7 +657,7 @@ article {
 
 .card .card-text p {
   color: #999999;
-  font-size: 0.75rem;
+  font-size: 0.5rem;
 }
 
 .card p:last-child {
@@ -689,7 +689,7 @@ article {
   font-family: 'FontAwesome';
   content: '\f0c1';
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   color: #666;
 }
 
@@ -741,7 +741,7 @@ footer {
 }
 
 footer p {
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   text-align: center;
 }
 
@@ -772,7 +772,7 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-toolbar .btn {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   padding: 10px 14px 9px;
   border: none;
 }
@@ -858,14 +858,14 @@ nav#navbar-main li {
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: #34495e;
-  font-weight: 300;
+  font-weight: 100;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
   color: #0095eb;
-  font-weight: 300;
+  font-weight: 100;
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
@@ -881,7 +881,7 @@ nav#navbar-main li {
   display: block;
   padding: 3px 20px;
   clear: both;
-  font-weight: 400;
+  font-weight: 100;
   line-height: 1.42857143;
   color: #34495e;
   white-space: nowrap;
@@ -899,7 +899,7 @@ nav#navbar-main li {
 .navbar-default .navbar-brand {
   text-transform: uppercase;
   
-  font-size: 1.2em;
+  font-size: 0.9em;
   color: #2b2b2b;
 }
 
@@ -958,7 +958,7 @@ nav#navbar-main li {
     display: block;
     padding: 3px 20px;
     clear: both;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 1.42857143;
     color: #34495e;
     white-space: nowrap;
@@ -1006,7 +1006,7 @@ table {
   width: 100%;
   max-width: 100%;
   margin-bottom: 1rem;
-  font-size: 0.93rem;
+  font-size: 0.7rem;
 }
 
 table > thead > tr > th,
@@ -1078,7 +1078,7 @@ div.alert p:first-child::before {
   top: -0.5rem;
   left: -2rem;
   font-family: 'FontAwesome';
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #fff;
   content: '\f05a';
   width: 1.5rem;
