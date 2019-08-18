@@ -34,7 +34,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 0.7rem;
+  font-size: 0.5rem;
   line-height: inherit;
   color: inherit;
   margin-top: 71px; /* Offset body content by navbar height. */
@@ -81,17 +81,17 @@ h1 {
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 h3 {
   font-weight: 100;
   margin-top: 1.5rem;
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 h4, h5, h6 {
   font-weight: 100;
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 a,
@@ -128,7 +128,7 @@ figcaption {
   display: block;
   margin-top: 0.75em;
   line-height: 1.25;
-  font-size: 1rem;
+  font-size: 0.5rem;
   margin-bottom: 1.65rem;
   font-family: 'Lato', sans-serif;
   counter-increment: captions;
@@ -136,7 +136,7 @@ figcaption {
 
 figcaption h4 {
   display: inline-block;
-  font-size: 1rem;
+  font-size: 0.5rem;
   font-weight: 100;
   margin: 0;
 }
@@ -240,7 +240,7 @@ blockquote p:last-child {
 .section-heading p {
   font-family: 'Lato', sans-serif;
   font-weight: 100;
-  font-size: 1rem;
+  font-size: 0.5rem;
   color: #b2b2b2;
 }
 
@@ -266,14 +266,14 @@ blockquote p:last-child {
 }
 
 #profile .portrait-title h2 {
-  font-size: 1em;
+  font-size: 0.5em;
   font-weight: 100;
   color: #000000;
   margin: 20px 0 10px 0;
 }
 
 #profile .portrait-title h3 {
-  font-size: 1em;
+  font-size: 0.5em;
   font-weight: 100;
   color: #AAAAAA;
   margin: 0px 0 10px 0;
@@ -430,7 +430,7 @@ article {
 }
 
 .article-title {
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 .article-title a {
@@ -530,19 +530,19 @@ article {
 }
 
 .pub-list-item .pub-abstract {
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 .pub-list-item .pub-authors {
   line-height: normal;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 0.5rem;
   color: #3170A5;
 }
 
 .pub-list-item .pub-publication {
   color: #090;
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 .pub-list-item .pub-links {
@@ -561,7 +561,7 @@ article {
 
 .talk-event {
   color: #090;
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 /*************************************************
@@ -689,7 +689,7 @@ article {
   font-family: 'FontAwesome';
   content: '\f0c1';
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.25rem;
   color: #666;
 }
 
@@ -899,7 +899,7 @@ nav#navbar-main li {
 .navbar-default .navbar-brand {
   text-transform: uppercase;
   
-  font-size: 0.9em;
+  font-size: 0.5em;
   color: #2b2b2b;
 }
 
@@ -1067,7 +1067,7 @@ div.alert {
 div.alert p {
   position: relative;
   display: block;
-  font-size: 1rem;
+  font-size: 0.5rem;
   margin-left: 2rem;
   margin-top: 0;
   margin-bottom: 0;
@@ -1078,7 +1078,7 @@ div.alert p:first-child::before {
   top: -0.5rem;
   left: -2rem;
   font-family: 'FontAwesome';
-  font-size: 1rem;
+  font-size: 0.5rem;
   color: #fff;
   content: '\f05a';
   width: 1.5rem;
