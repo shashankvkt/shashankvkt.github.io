@@ -7,21 +7,21 @@ body {
 	color: #FFFFFF;
     font-family: 'Lato', Verdana, Helvetica, sans-serif;;
     font-weight: 300;
-	font-size:13px;
+	font-size:14px;
 }
 
 /* Headings */
 
 h1 {
-  	font-size:25pt;
+  	font-size:27pt;
 }
 
 h2 {
-	font-size:18pt;
+	font-size:20pt;
 }
 
 h3 {
-  	font-size:12pt;
+  	font-size:13pt;
 }
 
 
@@ -48,7 +48,7 @@ a:hover {
 }
 
 mark {
-	  font-size: 10pt;
+	  font-size: 11pt;
     background-color: #E88D6E;
     color: white;
 }
@@ -132,7 +132,7 @@ mark {
 /* Title and menu */
 
 .title{
-	font-size: 13pt;
+	font-size: 14pt;
 	margin: 1px;
 }
 
@@ -140,7 +140,7 @@ mark {
   white-space: nowrap;
   margin-bottom: 0em;
   text-align:center;
-  font-size:10px;
+  font-size:12px;
 }
 
 
