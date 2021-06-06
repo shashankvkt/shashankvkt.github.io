@@ -13,15 +13,15 @@ body {
 /* Headings */
 
 h1 {
-  	font-size:28pt;
+  	font-size:26pt;
 }
 
 h2 {
-	font-size:21pt;
+	font-size:19pt;
 }
 
 h3 {
-  	font-size:13pt;
+  	font-size:12pt;
 }
 
 
@@ -132,7 +132,7 @@ mark {
 /* Title and menu */
 
 .title{
-	font-size: 21pt;
+	font-size: 19pt;
 	margin: 1px;
 }
 
@@ -140,7 +140,7 @@ mark {
   white-space: nowrap;
   margin-bottom: 0em;
   text-align:center;
-  font-size:15px;
+  font-size:13px;
 }
 
 
