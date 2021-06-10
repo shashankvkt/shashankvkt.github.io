@@ -7,21 +7,21 @@ body {
 	color: #FFFFFF;
     font-family: 'Lato', Verdana, Helvetica, sans-serif;;
     font-weight: 300;
-	font-size:13px;
+	font-size:15px;
 }
 
 /* Headings */
 
 h1 {
-  	font-size:26pt;
+  	font-size:28pt;
 }
 
 h2 {
-	font-size:19pt;
+	font-size:22pt;
 }
 
 h3 {
-  	font-size:12pt;
+  	font-size:14pt;
 }
 
 
@@ -132,7 +132,7 @@ mark {
 /* Title and menu */
 
 .title{
-	font-size: 19pt;
+	font-size: 20pt;
 	margin: 1px;
 }
 
@@ -140,7 +140,7 @@ mark {
   white-space: nowrap;
   margin-bottom: 0em;
   text-align:center;
-  font-size:13px;
+  font-size:14px;
 }
 
 
